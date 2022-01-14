@@ -28,5 +28,8 @@ My name is Magdalena Szeląg. I am a Master of Management. I graduated from the 
 * [szkoleniedlaqa](https://szkoleniedlaqa.pl/)
 # My test case examples
 * [Test cases for Application to verify the identity of two languages of document scans](https://docs.google.com/spreadsheets/d/1bfV5hUaXPGRF9jhui1fzEeexuHbgs_GO/edit?usp=sharing&ouid=109717024635922998817&rtpof=true&sd=true)
-
+# My question to the analyst
+* [Question to the Application analyst](https://drive.google.com/file/d/1hq0ygT0bmpFl2iQchOM1igawQfw9ShLZ/view?usp=sharing)
+# My bug report
+* [Bug reported for Mr Buggy case](https://drive.google.com/file/d/1SqaXfXwumuIGJcWgEy8UPImSfWK_hLvj/view?usp=sharing)
 
