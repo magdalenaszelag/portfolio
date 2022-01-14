@@ -5,5 +5,23 @@ My name is Magdalena Szeląg. I am a Master of Management. I graduated from the 
 * [TestLink](https://www.testlink.org/)
 * [Jira](https://www.atlassian.com/)
 * [GitHub](https://github.com/)
+# Tech skills 
 * SQL basics with [mimo](https://getmimo.com/)
+* Software testing
+* Creating test cases
+* Reporting bugs
+# Courses
+* [Individual training for a Manual Tester](https://www.wyszkolewas.com.pl/) 01.05.12.21
+# Books
+* R. Smilgin - Zawód tester
+# Group on Facebook
+* Tester oprogramowania - wsparcie na starcie
+* Testowanie oprogramowania
+* Wyszkoliłemwas
+* Dare IT
+# Recommended blogs
+* [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
+* [justgeek.it](https://geek.justjoin.it/)
+* [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
+* [szkoleniedlaqa](https://szkoleniedlaqa.pl/)
 
