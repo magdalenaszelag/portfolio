@@ -26,4 +26,7 @@ My name is Magdalena Szeląg. I am a Master of Management. I graduated from the 
 * [justgeek.it](https://geek.justjoin.it/)
 * [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 * [szkoleniedlaqa](https://szkoleniedlaqa.pl/)
+# My test case examples
+* [Test cases for Application to verify the identity of two languages of document scans](https://docs.google.com/spreadsheets/d/1bfV5hUaXPGRF9jhui1fzEeexuHbgs_GO/edit?usp=sharing&ouid=109717024635922998817&rtpof=true&sd=true)
+
 
