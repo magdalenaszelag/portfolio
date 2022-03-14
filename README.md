@@ -18,7 +18,7 @@ My name is Magdalena Szeląg. I am a Master of Management. I graduated from the 
 * Tester Programuje by Bartek Kita [Testowanie REST API](https://www.youtube.com/watch?v=OFN7ay5UreY) 14.03.2022
 # Books
 * R. Smilgin - Zawód tester
-# Group on Facebook
+# Groups on Facebook
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
 * Wyszkoliłemwas
