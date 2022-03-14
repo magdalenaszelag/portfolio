@@ -14,7 +14,7 @@ My name is Magdalena Szeląg. I am a Master of Management. I graduated from the 
 * [Individual training for a Manual Tester](https://www.wyszkolewas.com.pl/) 01.05.12.21
 * Udemy [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/learn/lecture/29008772?start=0#overview) in progress
 * Udemy [Automatyzacja testów: WebdriverIO + Typescript - Jenkins](https://www.udemy.com/course/testowanie-automatyczne-webdriverio/learn/lecture/29312514?start=0#overview) in progress
-* Webinar on YouTube by Tester Programuje 'Bartosz Kita' [Testowanie REST API](https://www.youtube.com/watch?v=OFN7ay5UreY) 14.03.2022
+* Webinar on YouTube by Tester Programuje 'Bartek Kita' [Testowanie REST API](https://www.youtube.com/watch?v=OFN7ay5UreY) 14.03.2022
 # Books
 * R. Smilgin - Zawód tester
 # Group on Facebook
@@ -27,9 +27,10 @@ My name is Magdalena Szeląg. I am a Master of Management. I graduated from the 
 * [justgeek.it](https://geek.justjoin.it/)
 * [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 * [szkoleniedlaqa](https://szkoleniedlaqa.pl/)
-# Subscribed channels on youtube
-* [Tester Programuje](https://www.youtube.com/channel/UCb4yMKYzaO-jYGeFSvMuHJQ)
-* 
+# Subscribed channels on YouTube
+* [Tester Programuje](https://www.youtube.com/channel/UCb4yMKYzaO-jYGeFSvMuHJQ) by Bartek Kita
+* [Jak nauczyć się programowania](https://www.youtube.com/channel/UCxFUKrMr2RNOUm8jztlKCAA) by Kamil Brzeziński
+* [Zawód Tester](https://www.youtube.com/channel/UCUJzan4zBUpWwS1yWZZCwUw/featured)
 # My test case examples
 * [Test cases for Application to verify the identity of two languages of document scans](https://docs.google.com/spreadsheets/d/1bfV5hUaXPGRF9jhui1fzEeexuHbgs_GO/edit?usp=sharing&ouid=109717024635922998817&rtpof=true&sd=true)
 # My question to the analyst
