@@ -5,7 +5,6 @@ My name is Magdalena Szeląg. I am a Master of Management. I graduated from the 
 * [TestLink](https://www.testlink.org/)
 * [Jira](https://www.atlassian.com/)
 * [GitHub](https://github.com/)
-* [SQL](https://www.mysql.com/) basics
 # Tech skills 
 * SQL basics with [mimo](https://getmimo.com/)
 * Software testing
