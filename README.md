@@ -5,6 +5,7 @@ My name is Magdalena Szeląg. I am a Master of Management. I graduated from the 
 * [TestLink](https://www.testlink.org/)
 * [Jira](https://www.atlassian.com/)
 * [GitHub](https://github.com/)
+* [SQL](https://www.mysql.com/) basics
 # Tech skills 
 * SQL basics with [mimo](https://getmimo.com/)
 * Software testing
@@ -14,7 +15,8 @@ My name is Magdalena Szeląg. I am a Master of Management. I graduated from the 
 * [Individual training for a Manual Tester](https://www.wyszkolewas.com.pl/) 01.05.12.21
 * Udemy [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/learn/lecture/29008772?start=0#overview) in progress
 * Udemy [Automatyzacja testów: WebdriverIO + Typescript - Jenkins](https://www.udemy.com/course/testowanie-automatyczne-webdriverio/learn/lecture/29312514?start=0#overview) in progress
-* Webinar on YouTube by Tester Programuje 'Bartek Kita' [Testowanie REST API](https://www.youtube.com/watch?v=OFN7ay5UreY) 14.03.2022
+# Webinars
+* Tester Programuje by Bartek Kita [Testowanie REST API](https://www.youtube.com/watch?v=OFN7ay5UreY) 14.03.2022
 # Books
 * R. Smilgin - Zawód tester
 # Group on Facebook
