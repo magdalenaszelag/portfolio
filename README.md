@@ -17,6 +17,7 @@ My name is Magdalena Szeląg. I am a Master of Management. I graduated from the 
 * Mimo [SQL Basics Course](https://getmimo.com/) ended with certificate
 # Webinars
 * Tester Programuje by Bartek Kita [Testowanie REST API](https://www.youtube.com/watch?v=OFN7ay5UreY) 14.03.2022
+* Podstawy SQL by Filip Paluch [Czy IT jest dla mnie](https://www.czyitjestdlamnie.pl/) 12.04.2022
 # Books
 * R. Smilgin - Zawód tester
 # Groups on Facebook
