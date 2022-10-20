@@ -1,15 +1,21 @@
 # Portfolio
 # About Me
-My name is Magdalena Szeląg. I am a Master of Management. I graduated from the University of Warsaw in Poland. Recently, I started to be interested in software testing. I am fascinated by the possibilities of internet technologies. My goal is to develop knowledge and technical skills related to testing so that I can ensure the quality of the software that reaches users. On this page, I would like to share my entire experience.
+My name is Magdalena Szeląg. I am a Master of Management. I graduated from the University of Warsaw in Poland. I am interested in software quality assurance. I am fascinated by the possibilities of internet technologies. My goal is to develop knowledge and technical skills related to manual and automation testing so that I can ensure the quality of the software that reaches ended users. On this page, I would like to share my entire experience.
 # Tools
-* [TestLink](https://www.testlink.org/)
-* [Jira](https://www.atlassian.com/)
+* [Postman with Newman](https://www.postman.com/)
+* [Jira, Confluence, Trello](https://www.atlassian.com/)
+* [GitLab](https://gitlab.com)
+* [Jenkins](https://www.jenkins.io/)
 * [GitHub](https://github.com/)
+* [DBeaver](https://dbeaver.io/)
+* [JasperSoft Studio](https://www.jaspersoft.com/)
 # Tech skills 
 * SQL basics
 * Software testing
 * Creating test cases
 * Reporting bugs
+* Testing API
+* Work in a Scrum Team
 # Courses
 * [Individual training for a Manual Tester] by Waldemar Szafraniec(https://www.wyszkolewas.com.pl/) 01.05.12.21
 * Udemy [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/learn/lecture/29008772?start=0#overview) in progress
@@ -34,10 +40,3 @@ My name is Magdalena Szeląg. I am a Master of Management. I graduated from the 
 * [Tester Programuje](https://www.youtube.com/channel/UCb4yMKYzaO-jYGeFSvMuHJQ) by Bartek Kita
 * [Jak nauczyć się programowania](https://www.youtube.com/channel/UCxFUKrMr2RNOUm8jztlKCAA) by Kamil Brzeziński
 * [Zawód Tester](https://www.youtube.com/channel/UCUJzan4zBUpWwS1yWZZCwUw/featured)
-# My test case examples
-* [Test cases for Application to verify the identity of two languages of document scans](https://docs.google.com/spreadsheets/d/1bfV5hUaXPGRF9jhui1fzEeexuHbgs_GO/edit?usp=sharing&ouid=109717024635922998817&rtpof=true&sd=true)
-# My question to the analyst
-* [Question to the Application analyst](https://drive.google.com/file/d/1hq0ygT0bmpFl2iQchOM1igawQfw9ShLZ/view?usp=sharing)
-# My bug report
-* [Bug reported for Mr Buggy case](https://drive.google.com/file/d/1SqaXfXwumuIGJcWgEy8UPImSfWK_hLvj/view?usp=sharing)
-
