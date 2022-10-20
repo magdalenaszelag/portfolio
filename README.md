@@ -17,7 +17,7 @@ My name is Magdalena Szeląg. I am a Master of Management. I graduated from the 
 * Testing API
 * Work in a Scrum Team
 # Courses
-* [Individual training for a Manual Tester] by Waldemar Szafraniec(https://www.wyszkolewas.com.pl/) 01.05.12.21
+* [Individual training for a Manual Tester](https://www.wyszkolewas.com.pl/) by Waldemar Szafraniec01.05.12.21
 * Udemy [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/learn/lecture/29008772?start=0#overview) in progress
 * Udemy [Automatyzacja testów: WebdriverIO + Typescript - Jenkins](https://www.udemy.com/course/testowanie-automatyczne-webdriverio/learn/lecture/29312514?start=0#overview) in progress
 * Mimo [SQL Basics Course](https://getmimo.com/) ended with certificate
@@ -37,6 +37,7 @@ My name is Magdalena Szeląg. I am a Master of Management. I graduated from the 
 * [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 * [szkoleniedlaqa](https://szkoleniedlaqa.pl/)
 # Subscribed channels on YouTube
+* [Harvard CS50](https://www.youtube.com/watch?v=WOvhPzWRUAY) by CodeGym
 * [Tester Programuje](https://www.youtube.com/channel/UCb4yMKYzaO-jYGeFSvMuHJQ) by Bartek Kita
 * [Jak nauczyć się programowania](https://www.youtube.com/channel/UCxFUKrMr2RNOUm8jztlKCAA) by Kamil Brzeziński
 * [Zawód Tester](https://www.youtube.com/channel/UCUJzan4zBUpWwS1yWZZCwUw/featured)
