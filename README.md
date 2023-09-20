@@ -18,6 +18,7 @@ My name is Magdalena Szeląg. I am a Master of Management. I graduated from the 
 * Work in a Scrum Team
 # Courses
 * [Individual training for a Manual Tester](https://www.wyszkolewas.com.pl/) by Waldemar Szafraniec 01.05.12.21
+* Udemy [Podstawy informatyki](https://www.udemy.com/course/podstawy-informatyki/learn/lecture/22781221?start=0#overview) ended with certificate
 * Udemy [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/learn/lecture/29008772?start=0#overview) in progress
 * Udemy [Automatyzacja testów: WebdriverIO + Typescript - Jenkins](https://www.udemy.com/course/testowanie-automatyczne-webdriverio/learn/lecture/29312514?start=0#overview) in progress
 * Mimo [SQL Basics Course](https://getmimo.com/) ended with certificate
